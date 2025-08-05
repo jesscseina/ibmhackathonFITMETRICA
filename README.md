@@ -43,7 +43,11 @@ In a fast-paced world, many individuals lack time, motivation, and personalized 
 ## 📊 Result
 **Deployed AI Fitness Agent**  
 Fitmetrica successfully demonstrated a working prototype capable of generating hyper-personalized fitness recommendations, tracking health metrics, and interacting conversationally like a virtual coach.
-
+<img width="1552" height="781" alt="image" src="https://github.com/user-attachments/assets/1395304d-25d4-488f-8101-e3a390dd8301" />
+<img width="1556" height="828" alt="image" src="https://github.com/user-attachments/assets/b0d5fe93-e3b7-4026-b5fd-47d826ac8d43" />
+<img width="874" height="966" alt="image" src="https://github.com/user-attachments/assets/6345200b-bc69-45d1-ac6f-4eaf483d13ab" />
+<img width="1465" height="763" alt="image" src="https://github.com/user-attachments/assets/b8a83d80-ac1d-4e87-8747-f739026a37e1" />
+THIS IS THE WORKING MODEL AI AGENT.
 ## 📌 Conclusion
 > "Ask. Act. Achieve."  
 > "Smart. Simple. Always There."  
