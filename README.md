@@ -67,7 +67,8 @@ This project aligns with IBM’s Cloud and AI certifications, utilizing Watsonx 
 
 ---
 
-> Thank you for exploring Fitmetrica!  
+> Thank you for exploring Fitmetrica!
+
 > _Your Fitness. Your Coach. Your Fitmetrica._
 
 
