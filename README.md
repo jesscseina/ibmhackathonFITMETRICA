@@ -64,8 +64,9 @@ Fitmetrica is more than an app—it's your 24x7 intelligent wellness companion.
 
 ## 📜 IBM Certifications
 This project aligns with IBM’s Cloud and AI certifications, utilizing Watsonx Studio, Granite Model, and other IBM Cloud services for AI deployment.
-
----
+![IMG_20250805_162127](https://github.com/user-attachments/assets/5e7a70dd-fdd1-4095-bdad-016055a642b2)
+![IMG_20250805_162027](https://github.com/user-attachments/assets/b351230f-14d5-4e47-8c29-ed9a22ae76e3)
+![IMG_20250805_162059](https://github.com/user-attachments/assets/7f6e5b09-e41c-4315-b500-b5dea27c76ca)
 
 > Thank you for exploring Fitmetrica!
 
