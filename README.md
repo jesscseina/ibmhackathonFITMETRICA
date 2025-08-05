@@ -52,7 +52,7 @@ Fitmetrica successfully demonstrated a working prototype capable of generating h
 Fitmetrica is more than an app—it's your 24x7 intelligent wellness companion.
 
 ## 🌐 GitHub Repository
-🔗 
+🔗 https://github.com/jesscseina/ibmhackathonFITMETRICA/blob/main/README.md
 
 ## 🚀 Future Scope
 - Integration with wearables and health devices  
